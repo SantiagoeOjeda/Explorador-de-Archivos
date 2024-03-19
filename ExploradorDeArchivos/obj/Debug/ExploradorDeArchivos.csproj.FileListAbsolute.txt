@@ -1,0 +1,14 @@
+C:\Users\santi\OneDrive\Escritorio\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\bin\Debug\ExploradorDeArchivos.exe.config
+C:\Users\santi\OneDrive\Escritorio\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\bin\Debug\ExploradorDeArchivos.exe
+C:\Users\santi\OneDrive\Escritorio\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\bin\Debug\ExploradorDeArchivos.pdb
+C:\Users\santi\OneDrive\Escritorio\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.exe
+C:\Users\santi\OneDrive\Escritorio\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.pdb
+C:\Users\santi\OneDrive\Documentos\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\bin\Debug\ExploradorDeArchivos.exe.config
+C:\Users\santi\OneDrive\Documentos\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\bin\Debug\ExploradorDeArchivos.exe
+C:\Users\santi\OneDrive\Documentos\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\bin\Debug\ExploradorDeArchivos.pdb
+C:\Users\santi\OneDrive\Documentos\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Documentos\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.exe
+C:\Users\santi\OneDrive\Documentos\Programacion\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.pdb
